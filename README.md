@@ -17,6 +17,7 @@ El sistema extrae canciones desde una playlist de Spotify y las almacena en Mong
 | Datos | Spotify Web API |
 
 ## Estructura del proyecto
+```
 ├── backend/  
 │   ├── model.py          # API FastAPI + lógica de recomendación  
 │   ├── models/           # Modelos y matrices serializadas (.joblib)  
@@ -27,7 +28,7 @@ El sistema extrae canciones desde una playlist de Spotify y las almacena en Mong
 ├── extraction.py         # Script de extracción de datos desde Spotify  
 ├── tokene.py             # Autenticación con Spotify  
 └── docker-compose.yml
-
+```
 ## Instalación y uso
 
 ### 1. Variables de entorno
