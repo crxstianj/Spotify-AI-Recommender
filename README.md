@@ -1,6 +1,5 @@
 # Spotify AI Recommender
 
-Interfaz web para recomendación de canciones basada en técnicas de Procesamiento de Lenguaje Natural (PLN).
 
 ## ¿Cómo funciona?
 
