@@ -6,7 +6,7 @@
 El sistema extrae canciones desde una playlist de Spotify y las almacena en MongoDB. A partir de esos datos, entrena un modelo de similitud usando **TF-IDF** sobre atributos como géneros, artistas y álbum. Cuando el usuario selecciona una canción, se calculan las canciones más similares mediante **similitud coseno** y se muestran como recomendaciones.
 
 <p align=center>
-<img width="400" src="https://github.com/user-attachments/assets/311e6616-c7cc-4341-8b4c-471fb392e316" />
+<img width="400" src="https://github.com/user-attachments/assets/a0ad80e4-3646-481b-a028-0dc5e676b0f4" />
 </p>
 
 ## Tecnologías
